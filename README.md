@@ -16,7 +16,7 @@ I’m a passionate **Flutter Developer** skilled in building responsive, scalabl
 - **Firebase**
 - **Git & GitHub**
 - **Go Router**
-- **Offline Storage
+- **Offline Storage**
   
 ## 📫 How to Reach Me
 📧 **Email:** [baharkhanbd123@gmail.com](mailto:baharkhanbd123@gmail.com)  
