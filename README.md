@@ -29,16 +29,4 @@ I’m a passionate **Flutter Developer** skilled in building responsive, scalabl
 📱 **WhatsApp:** [01581183499](https://wa.me/8801581183499)  
 🖥️ **GitHub:** [Bahar Khan](https://github.com/your-github-profile)  
 
----
 
-### 🔥 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-profile&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-### 🎯 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-profile&layout=compact&theme=radical" alt="Top Languages" />
-</p>
