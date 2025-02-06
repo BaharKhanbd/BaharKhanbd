@@ -12,9 +12,11 @@ I’m a passionate **Flutter Developer** skilled in building responsive, scalabl
 - **Rest API Integration**
 - **State Management: GetX, Provider**
 - **MVC Architecture**
+- **Future Architecture**
 - **Firebase**
 - **Git & GitHub**
 - **Go Router**
+- **Offline Storage
   
 ## 📫 How to Reach Me
 📧 **Email:** [baharkhanbd123@gmail.com](mailto:baharkhanbd123@gmail.com)  
