@@ -19,6 +19,8 @@ I’m a passionate **Flutter Developer** skilled in building responsive, scalabl
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Go%20Router-4285F4?style=for-the-badge&logo=flutter&logoColor=white" alt="Go Router"/>
   <img src="https://img.shields.io/badge/Offline%20Storage-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="Offline Storage"/>
+  <img src="https://img.shields.io/badge/MVC%20Architecture-2C3E50?style=for-the-badge&logo=code&logoColor=white" alt="MVC Architecture"/>
+  <img src="https://img.shields.io/badge/Future%20Architecture-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Future Architecture"/>
 </p>
 
 ---
