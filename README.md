@@ -22,14 +22,18 @@ I’m a passionate **Flutter Developer** skilled in building responsive, scalabl
   <img src="https://img.shields.io/badge/MVC%20Architecture-2C3E50?style=for-the-badge&logo=code&logoColor=white" alt="MVC Architecture"/>
   <img src="https://img.shields.io/badge/Future%20Architecture-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Future Architecture"/>
 </p>
+ 
  ## 📊 GitHub Stats:
 
-<img src="https://your_custom_image_link_here/e00c5ace-3185-4bd6-b0dd-f47bd10b9bea.png" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=BaharKhanbd&show_icons=true&theme=tokyonight&hide_title=true&hide=prs,issues&count_private=true&custom_title=Baharkhan's GitHub Stats" alt="GitHub Stats" />
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaharKhanbd&theme=tokyonight" alt="GitHub Summary" />
+</p>
 
-### 🇧🇩 Open Source Contributor from Bangladesh 💚
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaharKhanbd&theme=tokyonight" alt="GitHub Details" />
+</p>
 
 ---
 
