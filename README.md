@@ -23,9 +23,7 @@ I’m a passionate **Flutter Developer** skilled in building responsive, scalabl
   <img src="https://img.shields.io/badge/Future%20Architecture-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Future Architecture"/>
 </p>
  
- ## 📊 GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=BaharKhanbd&show_icons=true&theme=tokyonight&hide_title=true&hide=prs,issues&count_private=true&custom_title=Baharkhan's GitHub Stats" alt="GitHub Stats" />
+ ## 📊 GitHub Stats: 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaharKhanbd&theme=tokyonight" alt="GitHub Summary" />
