@@ -24,11 +24,6 @@ I’m a passionate **Flutter Developer** skilled in building responsive, scalabl
 </p>
  
  ## 📊 GitHub Stats: 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BaharKhanbd&theme=tokyonight" alt="GitHub Summary" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaharKhanbd&theme=tokyonight" alt="GitHub Details" />
 </p>
